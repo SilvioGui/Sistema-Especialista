@@ -1,4 +1,7 @@
 class Inferencia:
+  
+  def __init__(self):
+  
   #busca dos dados
   def get_data(self):
   
@@ -14,7 +17,7 @@ class Inferencia:
   #inferencia
   def inference(self):
   
-  #inferencia
+  #salvar dados
   def set_data(self):
   
   #log dos resultados
