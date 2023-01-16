@@ -1,10 +1,18 @@
 class Inferencia:
   
   def __init__(self):
+    self.get_data=True 
+    self.data_processing=False
+    self.prompt_user =False
+    self.rules_log=False
+    self.set_data=False
+    self.result_log=False
+    self.optimized_algorithm =False
   
   #busca dos dados
   def get_data(self):
-  
+    
+
   #tratamento dos dados
   def data_processing(self):
   
@@ -24,4 +32,4 @@ class Inferencia:
   def result_log(self):
   
   #algoritimo de melhor escolha
-  def (self):
+  def optimized_algorithm(self):
